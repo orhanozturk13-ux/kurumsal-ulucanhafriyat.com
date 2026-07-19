@@ -1,0 +1,44 @@
+# Server and account files
+.bash_history
+.cache/
+.codex/
+.composer/
+.copilot/
+.dotnet/
+.nodenv/
+.npm/
+.phpenv/
+.revisium_antivirus_cache/
+.ssh/
+.trash/
+.vscode-server/
+.wget-hsts
+.php-ini
+.php-version
+.imunify_patch_id
+.myimunify_id
+
+# Hosting/runtime directories
+backups/
+logs/
+error_docs/
+httpdocs/
+
+# Dependencies and build output
+node_modules/
+.next/
+dist/
+build/
+.wrangler/
+
+# Secrets and local databases
+.env
+.env.*
+*.sqlite
+*.sqlite-*
+*.db
+*.sql
+
+# OS/editor noise
+.DS_Store
+Thumbs.db

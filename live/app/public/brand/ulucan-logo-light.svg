@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 500" role="img" aria-labelledby="title desc">
+  <title id="title">Ulucan Hafriyat</title><desc id="desc">Koyu zemin için Ulucan Hafriyat logosu</desc>
+  <g fill="#FBFAF6">
+    <path d="M48 192a12 12 0 0 1 12-12h52a12 12 0 0 1 12 12v210h308V42a12 12 0 0 1 12-12h52a12 12 0 0 1 12 12v424a12 12 0 0 1-12 12H60a12 12 0 0 1-12-12V192Z"/>
+    <path d="M142 150a12 12 0 0 1 12-12h52a12 12 0 0 1 12 12v158h164V88a12 12 0 0 1 12-12h52a12 12 0 0 1 12 12v272a12 12 0 0 1-12 12H154a12 12 0 0 1-12-12V150Z"/>
+    <path d="M236 108a12 12 0 0 1 12-12h52a12 12 0 0 1 12 12v106h70V88a12 12 0 0 1 12-12h52a12 12 0 0 1 12 12v190a12 12 0 0 1-12 12H248a12 12 0 0 1-12-12V108Z"/>
+  </g>
+  <text x="580" y="276" fill="#FBFAF6" font-family="Arial, Helvetica, sans-serif" font-size="190" font-weight="700" letter-spacing="2">ULUCAN</text>
+  <g fill="#E95C20"><rect x="582" y="365" width="225" height="7" rx="3.5"/><rect x="1260" y="365" width="194" height="7" rx="3.5"/><text x="840" y="395" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" letter-spacing="20">HAFRİYAT</text></g>
+</svg>
