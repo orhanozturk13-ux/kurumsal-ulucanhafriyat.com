@@ -19,23 +19,15 @@
 .myimunify_id
 
 # Hosting/runtime directories
-backups/
 logs/
-error_docs/
-httpdocs/
 
-# Dependencies and build output
+# Dependencies
 node_modules/
-.next/
-dist/
-build/
 .wrangler/
 
 # Secrets and local databases
 .env
 .env.*
-*.sqlite
-*.sqlite-*
 *.db
 *.sql
 

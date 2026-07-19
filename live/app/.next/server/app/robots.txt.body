@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /yonetim
+Disallow: /api/admin
+
+Host: https://ulucanhafriyat.com
+Sitemap: https://ulucanhafriyat.com/sitemap.xml
